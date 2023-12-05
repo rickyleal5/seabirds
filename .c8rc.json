@@ -1,0 +1,10 @@
+{
+    "all": true,
+    "include": ["seabirds/src/sequelize/**/*.js", "seabirds/src/processData/**/*.js"],
+    "check-coverage": true,
+    "branches": 80,
+    "lines": 80,
+    "functions": 80,
+    "statements": 80,
+    "reporter": ["text", "html"]
+}
